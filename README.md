@@ -1,9 +1,6 @@
 # Clearcote Tracker 🛰️
 
-Which websites load in a [Clearcote](https://www.clearcotelabs.com) hosted browser, from our own tests.  
-**131 of 139** load · last checked October 2026
-
-## Websites
+Website status, October 2026. **131 of 139** load.
 
 <table>
   <tr>
@@ -568,4 +565,4 @@ Which websites load in a [Clearcote](https://www.clearcotelabs.com) hosted brows
   </tr>
 </table>
 
-<sub>Public pages only, opened with standard settings. A site “loads” when the real page renders. Results can change between checks. Not affiliated with any site listed; all trademarks belong to their owners. Site owner? Open an issue to be removed.</sub>
+<sub>Not affiliated with any website listed. All trademarks belong to their owners.</sub>
