@@ -1,6 +1,6 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 148](https://img.shields.io/badge/works-148-2ea043?style=for-the-badge) ![not yet: 9](https://img.shields.io/badge/not_yet-9-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: Oct_2026](https://img.shields.io/badge/updated-Oct_2026-6e7781?style=for-the-badge)
+![works: 150](https://img.shields.io/badge/works-150-2ea043?style=for-the-badge) ![not yet: 7](https://img.shields.io/badge/not_yet-7-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: Oct_2026](https://img.shields.io/badge/updated-Oct_2026-6e7781?style=for-the-badge)
 
 A public status list of **157 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news and more.
 
@@ -12,9 +12,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | --- | --- |
 | bol.com | Shopping & marketplaces |
 | delta.com | Travel & hotels |
-| google.com (Search) | Search, social & tools |
 | kroger.com | Groceries & delivery |
-| mouser.com | Shopping & marketplaces |
 | ralphlauren.com | Shopping & marketplaces |
 | stopandshop.com | Groceries & delivery |
 | yandex.com | Search, social & tools |
@@ -24,7 +22,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Shopping & marketplaces
 
-57 of 60 work
+58 of 60 work
 
 | Website | Status |
 | --- | :---: |
@@ -60,7 +58,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | lowes.com | ✅ Works |
 | macys.com | ✅ Works |
 | mercari.com | ✅ Works |
-| mouser.com | ❌ Not yet |
+| mouser.com | ✅ Works |
 | nike.com | ✅ Works |
 | norauto.es | ✅ Works |
 | nordstrom.com | ✅ Works |
@@ -237,7 +235,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Search, social & tools
 
-12 of 14 work
+13 of 14 work
 
 | Website | Status |
 | --- | :---: |
@@ -247,7 +245,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | duckduckgo.com | ✅ Works |
 | gettyimages.com | ✅ Works |
 | godaddy.com | ✅ Works |
-| google.com (Search) | ❌ Not yet |
+| google.com (Search) | ✅ Works |
 | leboncoin.fr | ✅ Works |
 | lesfurets.com | ✅ Works |
 | naver.com | ✅ Works |
