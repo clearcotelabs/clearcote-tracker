@@ -1,6 +1,6 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 152](https://img.shields.io/badge/works-152-2ea043?style=for-the-badge) ![not yet: 5](https://img.shields.io/badge/not_yet-5-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 14 Oct 2026](https://img.shields.io/badge/updated-14_Oct_2026-6e7781?style=for-the-badge)
+![works: 154](https://img.shields.io/badge/works-154-2ea043?style=for-the-badge) ![not yet: 3](https://img.shields.io/badge/not_yet-3-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 14 Oct 2026](https://img.shields.io/badge/updated-14_Oct_2026-6e7781?style=for-the-badge)
 
 A public status list of **157 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news and more.
 
@@ -10,17 +10,17 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 | Website | Category | Why |
 | --- | --- | --- |
-| bol.com | Shopping & marketplaces | The site blocks the IP addresses the cloud browser currently connects from |
-| delta.com | Travel & hotels | Not reachable through the cloud browser's network yet |
 | kroger.com | Groceries & delivery | Answers "too many requests" to the cloud browser's IP addresses |
 | stopandshop.com | Groceries & delivery | The site itself was offline when tested (its own "currently unavailable" page) |
 | yandex.com | Search, social & tools | Asks for an image puzzle after the "I'm not a robot" check |
 
 ## All websites by category
 
+\* Works when the cloud browser connects through a different proxy than the default one (for example your own residential proxy).
+
 ### Shopping & marketplaces
 
-59 of 60 work
+60 of 60 work
 
 | Website | Status |
 | --- | :---: |
@@ -31,7 +31,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | allegro.pl | ✅ Works |
 | amazon.com | ✅ Works |
 | bestbuy.com | ✅ Works |
-| bol.com | ❌ Not yet |
+| bol.com | ✅ Works\* |
 | canadagoose.com | ✅ Works |
 | cdiscount.com | ✅ Works |
 | chewy.com | ✅ Works |
@@ -100,7 +100,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Travel & hotels
 
-22 of 23 work
+23 of 23 work
 
 | Website | Status |
 | --- | :---: |
@@ -108,7 +108,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | airfrance.com | ✅ Works |
 | bestwestern.com | ✅ Works |
 | booking.com | ✅ Works |
-| delta.com | ❌ Not yet |
+| delta.com | ✅ Works\* |
 | easyjet.com | ✅ Works |
 | elal.com | ✅ Works |
 | emirates.com | ✅ Works |
