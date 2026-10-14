@@ -1,6 +1,6 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 150](https://img.shields.io/badge/works-150-2ea043?style=for-the-badge) ![not yet: 7](https://img.shields.io/badge/not_yet-7-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: Oct_2026](https://img.shields.io/badge/updated-Oct_2026-6e7781?style=for-the-badge)
+![works: 152](https://img.shields.io/badge/works-152-2ea043?style=for-the-badge) ![not yet: 5](https://img.shields.io/badge/not_yet-5-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: Oct_2026](https://img.shields.io/badge/updated-Oct_2026-6e7781?style=for-the-badge)
 
 A public status list of **157 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news and more.
 
@@ -13,16 +13,14 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | bol.com | Shopping & marketplaces |
 | delta.com | Travel & hotels |
 | kroger.com | Groceries & delivery |
-| ralphlauren.com | Shopping & marketplaces |
 | stopandshop.com | Groceries & delivery |
 | yandex.com | Search, social & tools |
-| zoominfo.com | Jobs & business |
 
 ## All websites by category
 
 ### Shopping & marketplaces
 
-58 of 60 work
+59 of 60 work
 
 | Website | Status |
 | --- | :---: |
@@ -67,7 +65,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | petco.com | ✅ Works |
 | pokemoncenter.com | ✅ Works |
 | radwell.com | ✅ Works |
-| ralphlauren.com | ❌ Not yet |
+| ralphlauren.com | ✅ Works |
 | redbubble.com | ✅ Works |
 | rs-online.com | ✅ Works |
 | sephora.com | ✅ Works |
@@ -183,7 +181,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Jobs & business
 
-11 of 12 work
+12 of 12 work
 
 | Website | Status |
 | --- | :---: |
@@ -198,7 +196,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | wellfound.com | ✅ Works |
 | yellowpages.com | ✅ Works |
 | yelp.com | ✅ Works |
-| zoominfo.com | ❌ Not yet |
+| zoominfo.com | ✅ Works |
 
 ### News & finance
 
