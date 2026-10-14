@@ -1,6 +1,6 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 152](https://img.shields.io/badge/works-152-2ea043?style=for-the-badge) ![not yet: 5](https://img.shields.io/badge/not_yet-5-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: Oct_2026](https://img.shields.io/badge/updated-Oct_2026-6e7781?style=for-the-badge)
+![works: 152](https://img.shields.io/badge/works-152-2ea043?style=for-the-badge) ![not yet: 5](https://img.shields.io/badge/not_yet-5-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 14 Oct 2026](https://img.shields.io/badge/updated-14_Oct_2026-6e7781?style=for-the-badge)
 
 A public status list of **157 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news and more.
 
@@ -8,13 +8,13 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ## ❌ Doesn't work yet
 
-| Website | Category |
-| --- | --- |
-| bol.com | Shopping & marketplaces |
-| delta.com | Travel & hotels |
-| kroger.com | Groceries & delivery |
-| stopandshop.com | Groceries & delivery |
-| yandex.com | Search, social & tools |
+| Website | Category | Why |
+| --- | --- | --- |
+| bol.com | Shopping & marketplaces | The site blocks the IP addresses the cloud browser currently connects from |
+| delta.com | Travel & hotels | Not reachable through the cloud browser's network yet |
+| kroger.com | Groceries & delivery | Answers "too many requests" to the cloud browser's IP addresses |
+| stopandshop.com | Groceries & delivery | The site itself was offline when tested (its own "currently unavailable" page) |
+| yandex.com | Search, social & tools | Asks for an image puzzle after the "I'm not a robot" check |
 
 ## All websites by category
 
@@ -254,4 +254,4 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ---
 
-<sub>Status as of October 2026. Not affiliated with any website listed. All trademarks belong to their owners.</sub>
+<sub>Status as of 14 October 2026. Not affiliated with any website listed. All trademarks belong to their owners.</sub>
