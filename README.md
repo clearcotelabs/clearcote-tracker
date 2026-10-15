@@ -1,6 +1,6 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 154](https://img.shields.io/badge/works-154-2ea043?style=for-the-badge) ![not yet: 3](https://img.shields.io/badge/not_yet-3-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 14 Oct 2026](https://img.shields.io/badge/updated-14_Oct_2026-6e7781?style=for-the-badge)
+![works: 156](https://img.shields.io/badge/works-156-2ea043?style=for-the-badge) ![not yet: 1](https://img.shields.io/badge/not_yet-1-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 15 Oct 2026](https://img.shields.io/badge/updated-15_Oct_2026-6e7781?style=for-the-badge)
 
 A public status list of **157 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news and more.
 
@@ -10,13 +10,13 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 | Website | Category | Why |
 | --- | --- | --- |
-| kroger.com | Groceries & delivery | Answers "too many requests" to the cloud browser's IP addresses |
-| stopandshop.com | Groceries & delivery | The site itself was offline when tested (its own "currently unavailable" page) |
-| yandex.com | Search, social & tools | Asks for an image puzzle after the "I'm not a robot" check |
+| stopandshop.com | Groceries & delivery | The site itself has been offline since 12 October 2026 (its own "currently unavailable" page), for every visitor |
 
 ## All websites by category
 
 \* Works when the cloud browser connects through a different proxy than the default one (for example your own residential proxy).
+
+† Works with the [challenge service](https://www.clearcotelabs.com/docs/cloud/challenges) turned on, which answers the picture puzzle the site sometimes shows.
 
 ### Shopping & marketplaces
 
@@ -87,13 +87,13 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Groceries & delivery
 
-4 of 6 work
+5 of 6 work
 
 | Website | Status |
 | --- | :---: |
 | albertsons.com | ✅ Works |
 | instacart.com | ✅ Works |
-| kroger.com | ❌ Not yet |
+| kroger.com | ✅ Works |
 | randalls.com | ✅ Works |
 | stopandshop.com | ❌ Not yet |
 | tesco.ie | ✅ Works |
@@ -233,7 +233,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Search, social & tools
 
-13 of 14 work
+14 of 14 work
 
 | Website | Status |
 | --- | :---: |
@@ -250,8 +250,8 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | reddit.com | ✅ Works |
 | similarweb.com | ✅ Works |
 | tiktok.com | ✅ Works |
-| yandex.com | ❌ Not yet |
+| yandex.com | ✅ Works† |
 
 ---
 
-<sub>Status as of 14 October 2026. Not affiliated with any website listed. All trademarks belong to their owners.</sub>
+<sub>Status as of 15 October 2026. Not affiliated with any website listed. All trademarks belong to their owners.</sub>
