@@ -1,10 +1,10 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 155](https://img.shields.io/badge/works-155-2ea043?style=for-the-badge) ![not yet: 2](https://img.shields.io/badge/not_yet-2-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 15 Oct 2026](https://img.shields.io/badge/updated-15_Oct_2026-6e7781?style=for-the-badge)
+![works: 178](https://img.shields.io/badge/works-178-2ea043?style=for-the-badge) ![not yet: 2](https://img.shields.io/badge/not_yet-2-8b949e?style=for-the-badge) ![websites: 180](https://img.shields.io/badge/websites-180-0969da?style=for-the-badge) ![updated: 15 Oct 2026](https://img.shields.io/badge/updated-15_Oct_2026-6e7781?style=for-the-badge)
 
-A public status list of **157 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news and more.
+A public status list of **180 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news, social media, sports betting and more.
 
-**Jump to:** [Doesn't work yet](#-doesnt-work-yet) · [All websites](#all-websites-by-category) · [Shopping & marketplaces](#shopping--marketplaces) · [Groceries & delivery](#groceries--delivery) · [Travel & hotels](#travel--hotels) · [Real estate](#real-estate) · [Cars](#cars) · [Tickets & events](#tickets--events) · [Jobs & business](#jobs--business) · [News & finance](#news--finance) · [Shipping & logistics](#shipping--logistics) · [Apps & media](#apps--media) · [Search, social & tools](#search-social--tools)
+**Jump to:** [Doesn't work yet](#-doesnt-work-yet) · [All websites](#all-websites-by-category) · [Shopping & marketplaces](#shopping--marketplaces) · [Groceries & delivery](#groceries--delivery) · [Travel & hotels](#travel--hotels) · [Real estate](#real-estate) · [Cars](#cars) · [Tickets & events](#tickets--events) · [Jobs & business](#jobs--business) · [News & finance](#news--finance) · [Shipping & logistics](#shipping--logistics) · [Apps & media](#apps--media) · [Sports betting](#sports-betting) · [Search, social & tools](#search-social--tools)
 
 ## ❌ Doesn't work yet
 
@@ -21,7 +21,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Shopping & marketplaces
 
-59 of 60 work
+63 of 64 work
 
 | Website | Status |
 | --- | :---: |
@@ -44,6 +44,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | ebay.com | ✅ Works |
 | electrical.com | ✅ Works |
 | etsy.com | ✅ Works |
+| farfetch.com | ✅ Works\* |
 | fashionphile.com | ✅ Works |
 | flipkart.com | ✅ Works |
 | footlocker.com | ✅ Works |
@@ -66,6 +67,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | petco.com | ✅ Works |
 | pokemoncenter.com | ✅ Works |
 | radwell.com | ✅ Works |
+| rakuten.co.jp | ✅ Works |
 | ralphlauren.com | ✅ Works |
 | redbubble.com | ✅ Works |
 | rs-online.com | ✅ Works |
@@ -75,9 +77,11 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | smythstoys.com | ✅ Works |
 | stockx.com | ✅ Works |
 | target.com | ✅ Works |
+| temu.com | ✅ Works |
 | totalwine.com | ✅ Works |
 | ulta.com | ✅ Works |
 | vestiairecollective.com | ✅ Works |
+| vinted.fr | ✅ Works |
 | walmart.com | ✅ Works |
 | wayfair.com | ✅ Works |
 | wildberries.ru | ✅ Works |
@@ -88,11 +92,12 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Groceries & delivery
 
-5 of 6 work
+6 of 7 work
 
 | Website | Status |
 | --- | :---: |
 | albertsons.com | ✅ Works |
+| doordash.com | ✅ Works |
 | instacart.com | ✅ Works |
 | kroger.com | ✅ Works |
 | randalls.com | ✅ Works |
@@ -101,14 +106,16 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Travel & hotels
 
-23 of 23 work
+27 of 27 work
 
 | Website | Status |
 | --- | :---: |
+| aa.com | ✅ Works\* |
 | airbnb.com | ✅ Works |
 | airfrance.com | ✅ Works |
 | bestwestern.com | ✅ Works |
 | booking.com | ✅ Works |
+| britishairways.com | ✅ Works |
 | delta.com | ✅ Works\* |
 | easyjet.com | ✅ Works |
 | elal.com | ✅ Works |
@@ -119,8 +126,10 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | hilton.com | ✅ Works |
 | hyatt.com | ✅ Works |
 | kayak.com | ✅ Works |
+| lufthansa.com | ✅ Works |
 | marriott.com | ✅ Works |
 | priceline.com | ✅ Works |
+| qatarairways.com | ✅ Works |
 | ryanair.com | ✅ Works |
 | skyscanner.com | ✅ Works |
 | southwest.com | ✅ Works |
@@ -157,18 +166,19 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Cars
 
-4 of 4 work
+5 of 5 work
 
 | Website | Status |
 | --- | :---: |
 | autoscout24.de | ✅ Works |
 | carfax.com | ✅ Works |
+| carvana.com | ✅ Works |
 | lacentrale.fr | ✅ Works |
 | mobile.de | ✅ Works |
 
 ### Tickets & events
 
-7 of 7 work
+8 of 8 work
 
 | Website | Status |
 | --- | :---: |
@@ -179,10 +189,11 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | ticketmaster.com | ✅ Works |
 | ticketmaster.it | ✅ Works |
 | tickets.com | ✅ Works |
+| vividseats.com | ✅ Works\* |
 
 ### Jobs & business
 
-12 of 12 work
+13 of 13 work
 
 | Website | Status |
 | --- | :---: |
@@ -193,6 +204,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | glassdoor.com | ✅ Works |
 | google.com (Jobs) | ✅ Works |
 | indeed.com | ✅ Works |
+| linkedin.com | ✅ Works |
 | trustpilot.com | ✅ Works |
 | wellfound.com | ✅ Works |
 | yellowpages.com | ✅ Works |
@@ -201,13 +213,15 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### News & finance
 
-5 of 5 work
+7 of 7 work
 
 | Website | Status |
 | --- | :---: |
 | eleconomista.es | ✅ Works |
 | espncricinfo.com | ✅ Works |
+| finance.yahoo.com | ✅ Works |
 | finanzen.ch | ✅ Works |
+| investing.com | ✅ Works |
 | stern.de | ✅ Works |
 | wsj.com | ✅ Works |
 
@@ -232,25 +246,41 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | imdb.com | ✅ Works |
 | youtube.com | ✅ Works |
 
+### Sports betting
+
+4 of 4 work
+
+| Website | Status |
+| --- | :---: |
+| bet365.com | ✅ Works |
+| draftkings.com | ✅ Works |
+| pointsbet.com.au | ✅ Works |
+| sportsbet.com.au | ✅ Works |
+
 ### Search, social & tools
 
-14 of 14 work
+19 of 19 work
 
 | Website | Status |
 | --- | :---: |
 | ahrefs.com | ✅ Works |
 | bing.com | ✅ Works |
+| chatgpt.com | ✅ Works |
 | craigslist.org | ✅ Works |
 | duckduckgo.com | ✅ Works |
+| facebook.com | ✅ Works |
 | gettyimages.com | ✅ Works |
 | godaddy.com | ✅ Works |
 | google.com (Search) | ✅ Works |
+| instagram.com | ✅ Works |
 | leboncoin.fr | ✅ Works |
 | lesfurets.com | ✅ Works |
 | naver.com | ✅ Works |
+| perplexity.ai | ✅ Works |
 | reddit.com | ✅ Works |
 | similarweb.com | ✅ Works |
 | tiktok.com | ✅ Works |
+| x.com | ✅ Works |
 | yandex.com | ✅ Works† |
 
 ---
