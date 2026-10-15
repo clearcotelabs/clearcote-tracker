@@ -1,6 +1,6 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 156](https://img.shields.io/badge/works-156-2ea043?style=for-the-badge) ![not yet: 1](https://img.shields.io/badge/not_yet-1-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 15 Oct 2026](https://img.shields.io/badge/updated-15_Oct_2026-6e7781?style=for-the-badge)
+![works: 155](https://img.shields.io/badge/works-155-2ea043?style=for-the-badge) ![not yet: 2](https://img.shields.io/badge/not_yet-2-8b949e?style=for-the-badge) ![websites: 157](https://img.shields.io/badge/websites-157-0969da?style=for-the-badge) ![updated: 15 Oct 2026](https://img.shields.io/badge/updated-15_Oct_2026-6e7781?style=for-the-badge)
 
 A public status list of **157 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news and more.
 
@@ -10,6 +10,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 | Website | Category | Why |
 | --- | --- | --- |
+| bol.com | Shopping & marketplaces | The site blocks the IP addresses the cloud browser currently connects from (it loads on some, not reliably) |
 | stopandshop.com | Groceries & delivery | The site itself has been offline since 12 October 2026 (its own "currently unavailable" page), for every visitor |
 
 ## All websites by category
@@ -20,7 +21,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 
 ### Shopping & marketplaces
 
-60 of 60 work
+59 of 60 work
 
 | Website | Status |
 | --- | :---: |
@@ -31,7 +32,7 @@ A public status list of **157 popular websites** and whether they load in a [Cle
 | allegro.pl | ✅ Works |
 | amazon.com | ✅ Works |
 | bestbuy.com | ✅ Works |
-| bol.com | ✅ Works\* |
+| bol.com | ❌ Not yet |
 | canadagoose.com | ✅ Works |
 | cdiscount.com | ✅ Works |
 | chewy.com | ✅ Works |
