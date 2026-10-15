@@ -1,8 +1,8 @@
 # Clearcote Tracker: which websites work in a cloud browser
 
-![works: 178](https://img.shields.io/badge/works-178-2ea043?style=for-the-badge) ![not yet: 2](https://img.shields.io/badge/not_yet-2-8b949e?style=for-the-badge) ![websites: 180](https://img.shields.io/badge/websites-180-0969da?style=for-the-badge) ![updated: 15 Oct 2026](https://img.shields.io/badge/updated-15_Oct_2026-6e7781?style=for-the-badge)
+![works: 179](https://img.shields.io/badge/works-179-2ea043?style=for-the-badge) ![not yet: 2](https://img.shields.io/badge/not_yet-2-8b949e?style=for-the-badge) ![websites: 181](https://img.shields.io/badge/websites-181-0969da?style=for-the-badge) ![updated: 15 Oct 2026](https://img.shields.io/badge/updated-15_Oct_2026-6e7781?style=for-the-badge)
 
-A public status list of **180 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news, social media, sports betting and more.
+A public status list of **181 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news, social media, sports betting and more.
 
 **Jump to:** [Doesn't work yet](#-doesnt-work-yet) · [All websites](#all-websites-by-category) · [Shopping & marketplaces](#shopping--marketplaces) · [Groceries & delivery](#groceries--delivery) · [Travel & hotels](#travel--hotels) · [Real estate](#real-estate) · [Cars](#cars) · [Tickets & events](#tickets--events) · [Jobs & business](#jobs--business) · [News & finance](#news--finance) · [Shipping & logistics](#shipping--logistics) · [Apps & media](#apps--media) · [Sports betting](#sports-betting) · [Search, social & tools](#search-social--tools)
 
@@ -18,6 +18,8 @@ A public status list of **180 popular websites** and whether they load in a [Cle
 \* Works when the cloud browser connects through a different proxy than the default one (for example your own residential proxy).
 
 † Works with the [challenge service](https://www.clearcotelabs.com/docs/cloud/challenges) turned on, which answers the picture puzzle the site sometimes shows.
+
+‡ Works when the page is opened the way a person does: from the site's home page and its own login link. Opened directly, the login address always asks for a text code first.
 
 ### Shopping & marketplaces
 
@@ -259,7 +261,7 @@ A public status list of **180 popular websites** and whether they load in a [Cle
 
 ### Search, social & tools
 
-19 of 19 work
+20 of 20 work
 
 | Website | Status |
 | --- | :---: |
@@ -281,6 +283,7 @@ A public status list of **180 popular websites** and whether they load in a [Cle
 | similarweb.com | ✅ Works |
 | tiktok.com | ✅ Works |
 | x.com | ✅ Works |
+| yahoo.co.jp (login) | ✅ Works‡ |
 | yandex.com | ✅ Works† |
 
 ---
