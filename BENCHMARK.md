@@ -13,7 +13,7 @@ A one-day measurement of how often a Clearcote hosted cloud browser gets the rea
 
 The range is the 95% Wilson interval. Every control page (five plain, unprotected websites) loaded in every run.
 
-**Our own proxy.** Some of the misses are not the website turning the browser away. For six addresses (an airline home page and five sign-in pages) the default proxy pool behind the cloud browsers refuses to open the connection at all, so the browser shows its own "can't be reached" page and the site never receives the request. They count as misses above, the same as any other page that did not load. With your own proxy ([docs](https://www.clearcotelabs.com/docs/hosted-browsers)) those addresses go through a different network.
+**Our own proxy.** Some of the misses are not the website turning the browser away. For six addresses (an airline home page and five sign-in pages) the default proxy pool behind the cloud browsers refuses to open the connection at all, so the browser shows its own "can't be reached" page and the site never receives the request. They count as misses above, the same as any other page that did not load. With your own proxy ([docs](https://www.clearcotelabs.com/docs/hosted-browsers)) those addresses go through a different network. In a follow-up on the same day, the six addresses were loaded twice more through another residential proxy provider, under the same rules: aa.com, Adobe sign-in, Microsoft account sign-up and Uber Eats log-in each loaded 2/2. PayPal log-in and Bank of America sign-in were refused by that provider as well, so those two sites were never reached on either network. The follow-up is reported here only and is not counted in the tables.
 
 ## By kind of website
 
