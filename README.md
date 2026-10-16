@@ -4,7 +4,7 @@
 
 A public status list of **207 popular websites** and whether they load in a [Clearcote](https://www.clearcotelabs.com) hosted cloud browser. Covers e-commerce, travel, real estate, tickets, jobs, news, social media, sports betting and more.
 
-**Jump to:** [Doesn't work yet](#-doesnt-work-yet) · [All websites](#all-websites-by-category) · [Shopping & marketplaces](#shopping--marketplaces) · [Groceries & delivery](#groceries--delivery) · [Travel & hotels](#travel--hotels) · [Real estate](#real-estate) · [Cars](#cars) · [Tickets & events](#tickets--events) · [Jobs & business](#jobs--business) · [News & finance](#news--finance) · [Shipping & logistics](#shipping--logistics) · [Apps & media](#apps--media) · [Sports betting](#sports-betting) · [Search, social & tools](#search-social--tools)
+**Jump to:** [Doesn't work yet](#-doesnt-work-yet) · [Benchmark](#benchmark-strict-rules) · [All websites](#all-websites-by-category) · [Shopping & marketplaces](#shopping--marketplaces) · [Groceries & delivery](#groceries--delivery) · [Travel & hotels](#travel--hotels) · [Real estate](#real-estate) · [Cars](#cars) · [Tickets & events](#tickets--events) · [Jobs & business](#jobs--business) · [News & finance](#news--finance) · [Shipping & logistics](#shipping--logistics) · [Apps & media](#apps--media) · [Sports betting](#sports-betting) · [Search, social & tools](#search-social--tools)
 
 ## ❌ Doesn't work yet
 
@@ -312,6 +312,10 @@ A public status list of **207 popular websites** and whether they load in a [Cle
 | yahoo.co.jp (login) | ✅ Works‡ | 15 Oct 2026 |
 | yandex.com | ✅ Works† | 15 Oct 2026 |
 
+
+## Benchmark (strict rules)
+
+A separate, stricter one-day test on 16 October 2026: 91 websites, each loaded twice in a fresh headless cloud browser, with 30 seconds to show the real page and no clicks, no typing and no automatic help. Run twice on the same day, the real page was served in **86.3%** (157/182) and **85.2%** (155/182) of loads. Per-website results and the exact rules: **[BENCHMARK.md](BENCHMARK.md)**.
 
 ## How we test
 
